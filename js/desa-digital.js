@@ -1,0 +1,2 @@
+var hasil = document.getElementById("desa-digital");
+hasil.innerHTML = "<div class='text-center text-white radius20' style='font-size: 80%;background: #ffffff30;'>&copy; Copyright 2024 | <a style='color: white' href='https://www.danangrudy.com/'>Hendra Wifi</a> - All rights reserved </div>";
